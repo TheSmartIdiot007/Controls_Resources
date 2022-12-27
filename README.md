@@ -32,6 +32,16 @@ https://app.theconstructsim.com/Course/55/
 ```sh
 https://app.theconstructsim.com/Course/13
 ```
+* Model Predictive Control Theory:
+```sh
+https://www.udemy.com/course/applied-control-systems-for-engineers-2-uav-drone-control/
+```
+* Model Predictive Control Python or C++ code (MAVROS)
+* Sliding Mode Controller:
+```sh
+https://www.youtube.com/playlist?list=PLHEIL5MR2cEHz5Fa56pS0lyz-6S_S1w78
+```
+* Sliding Mode Controller C++ code
 * Deep Learning (Andrew Ng) + 
 * Image Processing:
 ```sh
