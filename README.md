@@ -33,7 +33,10 @@ https://app.theconstructsim.com/Course/55/
 https://app.theconstructsim.com/Course/13
 ```
 * Deep Learning (Andrew Ng) + 
-* Image Processing (
+* Image Processing:
+```sh
+https://rpg.ifi.uzh.ch/teaching.html
+```
 * Deep Learning For Robotics: 
 ```sh
 https://app.theconstructsim.com/Course/71/
